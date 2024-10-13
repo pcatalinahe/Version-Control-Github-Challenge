@@ -1,0 +1,17 @@
+GitHub Basics - Catalina Perez.
+
+1. Explain what the terminal is in your own words.
+The terminal is a text-based interface that gives you access to the root of your computer, and therefore everything that makes up your CPU/system. It can be used by inputting commands to create and manipulate files, verify loads of information at the same time (ex. displaying all the files on a specific directory), control Git with Git commands, and even delete massive information all at the same time.
+2. What is the major difference between Git and GitHub?
+Git is an open-source version control system. It can be installed into any operating system locally (some come with it already installed, like Mac OS or Linux) and accessed by inputting Git commands on the terminal. The major difference between Git and GitHub is that Git is the software that is local to your computer, and GitHub is just the platform used to run said software through a cloud system/remote. Git focuses on version control and GitHub focuses on the code collaboration and branching of those controlled versions.
+3.  What are the steps to fork a GitHub repository?
+-Open your terminal, and type "git version" to check if Git is installed or needs to be (install it if not).
+-Go to your GitHub account (create a free account if you haven't).
+-Link your Git to your GitHub account through the terminal and your SSH Key.
+-Go back to GitHub and search for any public repos you want to collaborate on.
+-On the top right-hand side of the repo info page, you should see an option that says "fork" along with how many forks there are already.
+-Choose which user to fork it to, and if you want change the name of your fork or leave it as is (og repo name).
+-Add a description to the fork.
+-Select "copy the default branch only" -this is optional if you don't want all the other branches-.
+-Click "create fork".
+-ALL DONE :)
